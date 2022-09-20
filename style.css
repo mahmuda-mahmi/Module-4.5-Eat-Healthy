@@ -1,3 +1,17 @@
+body{
+       margin: 0;
+       padding: 0;
+}
 h1{
-       font-size: 50px;
+       font-family: 'Montserrat', sans-serif;
+       font-size: 60px;
+}
+.section{
+       display: flex;
+}
+.orange-color{
+       color: orange;
+}
+.img-part img{
+       width: 80%;
 }
