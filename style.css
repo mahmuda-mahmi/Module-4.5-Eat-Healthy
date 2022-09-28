@@ -59,8 +59,9 @@ font-family: 'Montserrat', sans-serif; */
        width:60%;
 }
 #section-bg{
-       background-image: url(images/shapes/7.png);
+       background-image: url(images/shapes/Frame59.jpg);
        background-repeat: no-repeat;
+       background-size: cover;
 }
 .recipe{
        color: #676767;
